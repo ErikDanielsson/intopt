@@ -1,6 +1,6 @@
 # intopt
 
-A parallel integer program solver for the Efficient C course, EDAG01, at LTH, Lund.
+A parallel integer program solver for that won the course competition in the Efficient C course, EDAG01, at LTH, Lund.
 
 To solve an integer program of the form
 
